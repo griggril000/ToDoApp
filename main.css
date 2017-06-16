@@ -130,12 +130,12 @@ html, body {
 }
 
 .listTitles:hover {
-    background-color: #900000;
+    background-color: SkyBlue;
     cursor: pointer;
 }
 
 .selected {
-    border-right: 5px solid #600000;
+    border-right: 5px solid Blue;
 }
 
 .todoHeader {
@@ -154,7 +154,7 @@ html, body {
     width: 100%;
     height: 50px;
     font-size: 35px;
-    background-color: rgba(170, 0, 0, 0.3);
+    background-color: SkyBlue;
     border: 1px solid #500;
     outline: none;
     text-align: center;
@@ -185,7 +185,7 @@ html, body {
     margin-top: 45px;
     margin-left: 15px;
     padding: 10px 20px;
-    background-color: #900000;
+    background-color: Blue;
     border-radius: 5px;
     color: whitesmoke;
     font-size: 20px;
@@ -195,7 +195,7 @@ html, body {
 
 .removeListButton:hover, .clearCompletedButton:hover {
     cursor: pointer;
-    background-color: #c00000;
+    background-color: SkyBlue;
 }
 
 .taskContainer {
@@ -235,12 +235,12 @@ html, body {
 }
 
 .completeCheckbox:hover {
-    background-color: rgba(100, 0, 0, 0.2);
+    background-color: rgba(63, 191, 191, 0.2);
     cursor: pointer;
 }
 
 .checkBoxComplete {
-    background-color: rgba(100, 0, 0, 0.4);
+    background-color: rgba(63, 191, 191, 0.4);
 }
 
 .taskWordsComplete {
@@ -253,11 +253,11 @@ html, body {
     right: 0;
     margin-right: 20px;
     transition: all 0.3s;
-    color: rgba(100, 0, 0, 0.5);
+    color: rgba(0, 27, 96, 0.5);
 }
 
 .deleteTask:hover {
-    color: rgba(100, 0, 0, 0.8);
+    color: rgba(0, 27, 96, 0.8);
     cursor: pointer;
 }
 
