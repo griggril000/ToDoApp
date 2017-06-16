@@ -210,10 +210,10 @@ html, body {
     position: relative;
     width: 100%;
     font-size: 35px;
-    background-color: rgba(170, 0, 0, 0.3);
-    border-left: 1px solid #500;
-    border-right: 1px solid #500;
-    border-bottom: 1px solid #500;
+    background-color: rgba(62, 187, 187, 0.3);
+    border-left: 1px solid #246e6e;
+    border-right: 1px solid #246e6e;
+    border-bottom: 1px solid #246e6e;
     padding: 5px 0 5px 20px;
     box-sizing: border-box;
     border-collapse: collapse;
