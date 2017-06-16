@@ -65,11 +65,11 @@ html, body {
 
 .navItem:hover {
     cursor: pointer;
-    border-bottom: 5px solid #D50000;
+    border-bottom: 5px solid Blue;
 }
 
 .navSelectedItem {
-    border-bottom: 5px solid #FF5252;
+    border-bottom: 5px solid Blue;
     box-sizing: border-box;
     opacity: 1;
 }
